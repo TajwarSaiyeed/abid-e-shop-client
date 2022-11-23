@@ -16,6 +16,14 @@ const menuItems = (
         Login
       </Link>
     </li>
+    <li>
+      <Link
+        to="/signup"
+        className="btn bg-pink-500 text-white hover:text-pink-500 hover:bg-white border-none rounded-lg lg:w-22"
+      >
+        Signup
+      </Link>
+    </li>
   </>
 );
 
